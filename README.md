@@ -29,8 +29,8 @@ Das Script bringt ein realistisches Smartphone-Erlebnis auf deinen Server – pe
 ## 👤 Entwickler
 
 **Xeno Modding**  
-Discord: *(hier kannst du deinen Team- oder Support-Link einfügen)*  
-GitHub: [Xeno Modding](https://github.com/) *(optional)*
+Discord: https://discord.gg/FYAVUQP9JW  
+GitHub:  https://github.com/XenoModding
 
 ---
 
