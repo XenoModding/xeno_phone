@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: transparent;
+}
+
+#phone {
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  width: 300px;
+  height: 500px;
+  background: rgba(30,30,30,0.95);
+  color: white;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hidden { display: none; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#messages {
+  flex: 1;
+  overflow-y: auto;
+  margin: 10px 0;
+}
+
+#number, #message {
+  width: 100%;
+  margin: 5px 0;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background: #1e90ff;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+}
