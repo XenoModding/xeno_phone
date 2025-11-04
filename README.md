@@ -21,3 +21,31 @@ Das Script bringt ein realistisches Smartphone-Erlebnis auf deinen Server – pe
 2. Platziere ihn in deinem **resources**-Ordner.  
 3. Füge folgenden Eintrag in deine **server.cfg** hinzu:
 
+
+4. Starte deinen Server neu – fertig! ✅  
+
+---
+
+## 👤 Entwickler
+
+**Xeno Modding**  
+Discord: *(hier kannst du deinen Team- oder Support-Link einfügen)*  
+GitHub: [Xeno Modding](https://github.com/) *(optional)*
+
+---
+
+## 📄 Lizenz
+
+Dieser Mod ist **frei verwendbar**.  
+Du darfst ihn auf deinem Server benutzen, verändern oder erweitern – Credits an **Xeno Modding** sind willkommen, aber nicht erforderlich. ❤️
+
+---
+
+## 💡 Support
+
+Für Fragen, Vorschläge oder Bugs:  
+Erstelle ein Issue auf GitHub oder kontaktiere uns über Discord.
+
+---
+
+✨ Viel Spaß mit **xeno_phone** – entwickelt mit Leidenschaft von **Xeno Modding**!
